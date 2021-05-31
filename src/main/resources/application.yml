@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/training
+    username: postgres
+    password: 1234
